@@ -33,9 +33,10 @@ To successfully complete this assignment, the following CSS techniques and prope
 
 ## 🖼️ Design Preview
 
-*(Based on the provided Bento UI reference containing dark backgrounds, vibrant illustrations, and varied card sizes.)*
+<p align="center">
+ <img width="1371" height="877" alt="Screenshot 2026-07-11 013531" src="https://github.com/user-attachments/assets/1f2bf41c-ba30-4f7a-b918-5569dab2ed83" />
 
-The layout specifically targets the complexities of managing different aspect ratios and content types within a unified grid system.
+</p>
 
 ## 📂 Project Structure
 
